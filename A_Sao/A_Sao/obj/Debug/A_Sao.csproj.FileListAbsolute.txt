@@ -1,0 +1,13 @@
+C:\Users\khong\OneDrive\Desktop\AI\A_Sao\A_Sao\bin\Debug\A_Sao.exe.config
+C:\Users\khong\OneDrive\Desktop\AI\A_Sao\A_Sao\bin\Debug\A_Sao.exe
+C:\Users\khong\OneDrive\Desktop\AI\A_Sao\A_Sao\bin\Debug\A_Sao.pdb
+C:\Users\khong\OneDrive\Desktop\AI\A_Sao\A_Sao\obj\Debug\A_Sao.Form1.resources
+C:\Users\khong\OneDrive\Desktop\AI\A_Sao\A_Sao\obj\Debug\A_Sao.Properties.Resources.resources
+C:\Users\khong\OneDrive\Desktop\AI\A_Sao\A_Sao\obj\Debug\A_Sao.csproj.GenerateResource.cache
+C:\Users\khong\OneDrive\Desktop\AI\A_Sao\A_Sao\obj\Debug\A_Sao.csproj.CoreCompileInputs.cache
+C:\Users\khong\OneDrive\Desktop\AI\A_Sao\A_Sao\obj\Debug\A_Sao.exe
+C:\Users\khong\OneDrive\Desktop\AI\A_Sao\A_Sao\obj\Debug\A_Sao.pdb
+C:\Users\khong\OneDrive\Desktop\AI\A_Sao\A_Sao\obj\Debug\A_Sao.ThanhPhanBenTrai.DoThi_Form.resources
+C:\Users\khong\OneDrive\Desktop\AI\A_Sao\A_Sao\obj\Debug\A_Sao.csprojAssemblyReference.cache
+C:\Users\khong\OneDrive\Desktop\AI\A_Sao\A_Sao\obj\Debug\A_Sao.ThanhPhanPhai.Menu_Form.resources
+C:\Users\khong\OneDrive\Desktop\AI\A_Sao\A_Sao\obj\Debug\A_Sao.ThanhPhanBenTrai.DinhDoThi.resources
